@@ -1,0 +1,46 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #f5f7fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+/* Main Card */
+.main-container {
+    max-width: 800px;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+/* Profile Image */
+.profile-img {
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid #667eea;
+}
+/* Survey Button */
+.survey-btn {
+    background: #764ba2;
+    color: white;
+    padding: 12px 24px;
+    font-size: 1.2em;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
+    transition: 0.3s;
+}
+.survey-btn:hover {
+    background: #5a3d91;
+}
+/* Footer */
+.footer {
+    font-size: 14px;
+    margin-top: 15px;
+    color: gray;
+}
