@@ -6,8 +6,8 @@ This project consists of:
 
 ## 🌐 Live Links
 
-- **Homepage (AWS S3):** [http://your-s3-website-url](http://your-s3-website-url)
-- **Survey Form (AWS EC2):** [http://your-ec2-public-ip/survey.html](http://your-ec2-public-ip/survey.html)
+- **Homepage (AWS S3):** [http://my-swe645-class-homepage.s3-website.us-east-2.amazonaws.com/](http://my-swe645-class-homepage.s3-website.us-east-2.amazonaws.com/)
+- **Survey Form (AWS EC2):** [http://3.147.103.164/survey.html](http://3.147.103.164/survey.html)
 
 ## 📌 Project Overview
 
